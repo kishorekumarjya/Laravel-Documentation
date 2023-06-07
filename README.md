@@ -19,7 +19,7 @@ php artisan serve
 
 =======
  
-Debugbar for Laravel
+# Debugbar for Laravel
 https://github.com/barryvdh/laravel-debugbar
 Require this package with composer. It is recommended to only require the package for development.
 composer require barryvdh/laravel-debugbar --dev
